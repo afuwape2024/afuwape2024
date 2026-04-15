@@ -1,5 +1,3 @@
-
-
 <img src="https://images.openai.com/static-rsc-4/qzwqx3IpbY_ssTyHHJQagP0ED7UIs-fK_ycfvPMJ7Gh4tfCoVFG-B-YxURQJ5NQC1PQ_xK6oNZEZSbq0rZ82D_DuA8bDIHXg7vEVjN5X13zyTGw6hzuepuzOeEC3kxml6cnVcCANZlaq3OGJQY8t2VDjHS3NjwGJp-9dS3xpuEk3tXroZQjZZqHYISoGgsxO?purpose=fullsize" alt="banner" width="100%"/>
 
 <h1 align="center">Oluwagbenro Afuwape</h1>
