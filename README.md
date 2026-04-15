@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/gbenro-a-637281bb/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="tobby2286@gmail.com">
+  <a href="mailto:tobby2286@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://github.com/afuwape2024">
