@@ -87,7 +87,7 @@ Cloud Architecture | DevOps | CI/CD | Monitoring | Security
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=afuwape2024&show_icons=true&theme=tokyonight" />
 </p>
 
 ### ☸️ EKS Secure Platform Deployment
@@ -118,11 +118,11 @@ Cloud Architecture | DevOps | CI/CD | Monitoring | Security
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=afuwape2024&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=afuwape2024&theme=tokyonight" />
 </p>
 
 ---
@@ -148,11 +148,13 @@ I’m open to:
 
 ## 🤝 Let’s Connect
 
-- LinkedIn: https://www.linkedin.com/in/your-linkedin/  
-- Email: your@email.com  
+- **LinkedIn:** https://www.linkedin.com/in/gbenro-a-637281bb/  
+- **Email:** tobby2286@gmail.com  
 
 ---
 
 ## ⚡ Engineering Philosophy
 
-> “Automate everything. Secure by design. Scale without limits.”
+> "Automate everything. Secure by design. Scale without limits."
+
+*Last Updated: April 15, 2026*
