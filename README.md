@@ -93,7 +93,6 @@ Senior AWS Cloud / DevOps Engineer with 6 years of experience building **secure,
 ## 🏆 Certifications
 
 - 🎓 AWS Certified Solutions Architect – Associate
-- 🎓 AWS Well-Architected Framework
 - 🎓 DevSecOps & Cloud Security Practices
 
 ---
@@ -101,7 +100,7 @@ Senior AWS Cloud / DevOps Engineer with 6 years of experience building **secure,
 ## 🎯 What I'm Looking For
 
 **Open to opportunities in:**
-- Senior AWS Cloud Engineer roles
+- AWS Cloud Engineer roles
 - Platform Engineering roles
 - DevOps / SRE positions
 
@@ -115,12 +114,3 @@ Senior AWS Cloud / DevOps Engineer with 6 years of experience building **secure,
 - 📧 **Email:** tobby2286@gmail.com
 - 💻 **GitHub:** https://github.com/afuwape2024
 
----
-
-## ⚡ Engineering Philosophy
-
-> "Automate everything. Secure by design. Scale without limits."
-
----
-
-*Last updated: April 2026*
